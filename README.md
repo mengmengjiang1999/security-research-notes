@@ -1,50 +1,34 @@
-# record
+# Security Research Knowledge Base
 
-content
+面向系统安全、模糊测试、嵌入式固件与工业控制安全的结构化知识库。内容来自论文阅读、工具实践、课程笔记和阶段性研究记录。
 
+## 知识地图
 
-#### 2024spring
+| 分区 | 内容 | 入口 |
+| --- | --- | --- |
+| 主题笔记 | AFL/LibAFL、Syzkaller、Simics、软件分析与渗透测试 | [浏览主题笔记](docs/topics/README.md) |
+| 文献阅读 | Fuzzing、固件重托管、PLC/ICS、安全分析与形式化验证 | [浏览论文索引](docs/literature/README.md) |
+| 实践材料 | CTF Web 题解、密码学讲义与 RSA 实验 | [浏览实践材料](docs/practice/README.md) |
+| 演示资料 | Fuzzware、Para-rehosting、Tardis 等论文分享 | [浏览演示资料](docs/presentations/README.md) |
+| 研究日志 | 2024—2025 年按学期归档的原始研究过程 | [浏览研究日志](docs/journal/README.md) |
 
-[week1 20240226-20240303](./2024spring/week1-20240226-20240303.md)
+完整导航见 [docs/README.md](docs/README.md)。
 
-[week2 20240304-20240310](./2024spring/week2-20240304-20240310.md)
+## 使用建议
 
-[week3 20240311-20240317](./2024spring/week3-20240311-20240317.md)
+- 想快速理解一个主题：从“主题笔记”开始，再沿链接进入对应论文。
+- 想查找相关工作：使用“文献阅读”的分类索引。
+- 想复现实验：查看“实践材料”和主题笔记中的环境配置记录。
+- 想追溯研究过程：到“研究日志”按时间查阅；其中内容可能未经最终校订。
 
-[week4 20240318-20240324](./2024spring/week4-20240318-20240324.md)
+## 内容约定
 
-[week5 20240325-2024033](./2024spring/week5-20240325-20240331.md)
+- 每篇知识条目尽量包含背景、核心方法、关键结论、局限与参考资料。
+- 命令中的用户目录统一使用 `/home/user`，终端提示符统一使用 `user@host`。
+- 不收录姓名、联系方式、账号标识、真实主机名、私有路径、凭据或密钥。
+- 论文作者、公开机构和公开参考链接属于文献事实，不作为个人信息删除。
+- 新增内容可从 [条目模板](docs/TEMPLATE.md) 开始。
 
-[week6 20240401-20240407](./2024spring/week6-20240401-20240407.md)
+## 免责声明
 
-#### papers
-
-todo list:
-
-[todo list](./papers/todo-list.md)
-
-notes:
-
-[KernelGPT: Enhanced Kernel Fuzzing via Large Language Models](./papers/KernelGPT:%20Enhanced%20Kernel%20Fuzzing%20via%20Large%20Language%20Models.md)
-
-[Tardis: Coverage-Guided Embedded Operating System Fuzzing](./papers/Tardis:%20Coverage-Guided%20Embedded%20Operating%20System%20Fuzzing.md)
-
-[Fuzzing of Embedded Systems: A Survey](./papers/Fuzzing%20of%20Embedded%20Systems:%20A%20Survey.md)
-
-[Hydra: Finding Bugs in File Systems with an Extensible Fuzzing Framework](./papers/Hydra:%20Finding%20Bugs%20in%20File%20Systems%20with%20an%20Extensible%20Fuzzing%20Framework.md)
-
-
-#### tools
-
-1. tsffs tutorial
-
-[tsffs documentation tutorial](./coding/tsffs-simics.md)
-
-2. afl
-
-[afl](./coding/afl-tutorial-install-error.md)
-
-
-3. LibAFL
-
-
+本仓库仅用于学习与研究。安全测试内容只能用于已获明确授权的环境。论文笔记是阅读摘要，引用时请以原论文为准。
