@@ -1,4 +1,4 @@
-# Security Research Knowledge Base
+# Security Research Notes
 
 面向系统安全、模糊测试、嵌入式固件与工业控制安全的结构化知识库。研究主线与课程速记分区管理，避免稳定知识条目和原始课堂记录混在一起。
 
