@@ -1,16 +1,17 @@
 # Security Research Knowledge Base
 
-面向系统安全、模糊测试、嵌入式固件与工业控制安全的结构化知识库。内容来自论文阅读、工具实践、课程笔记和阶段性研究记录。
+面向系统安全、模糊测试、嵌入式固件与工业控制安全的结构化知识库。研究主线与课程速记分区管理，避免稳定知识条目和原始课堂记录混在一起。
 
 ## 知识地图
 
 | 分区 | 内容 | 入口 |
 | --- | --- | --- |
-| 主题笔记 | AFL/LibAFL、Syzkaller、Simics、软件分析与渗透测试 | [浏览主题笔记](docs/topics/README.md) |
-| 文献阅读 | Fuzzing、固件重托管、PLC/ICS、安全分析与形式化验证 | [浏览论文索引](docs/literature/README.md) |
-| 实践材料 | 课程笔记、CTF Web 题解、密码学讲义与 RSA 实验 | [浏览实践材料](docs/practice/README.md) |
-| 演示资料 | Fuzzware、Para-rehosting、Tardis 等论文分享 | [浏览演示资料](docs/presentations/README.md) |
+| 主题笔记 | Fuzzing、虚拟化、TEE、Simics、软件分析与工业安全 | [浏览主题笔记](docs/topics/README.md) |
+| 文献阅读 | Fuzzing、固件重托管、机密计算、PLC/ICS 与形式化验证 | [浏览论文索引](docs/literature/README.md) |
+| 实践材料 | CTF Web 题解、密码学讲义与 RSA 实验 | [浏览实践材料](docs/practice/README.md) |
+| 演示资料 | 虚拟化、物联网安全、固件 Fuzzing 与重托管分享 | [浏览演示资料](docs/presentations/README.md) |
 | 研究日志 | 2024—2025 年按学期归档的原始研究过程 | [浏览研究日志](docs/journal/README.md) |
+| 课程笔记 | PPE Seminar、政治哲学与软件分析课堂速记 | [浏览课程归档](docs/course-notes/README.md) |
 
 完整导航见 [docs/README.md](docs/README.md)。
 
@@ -20,6 +21,7 @@
 - 想查找相关工作：使用“文献阅读”的分类索引。
 - 想复现实验：查看“实践材料”和主题笔记中的环境配置记录。
 - 想追溯研究过程：到“研究日志”按时间查阅；其中内容可能未经最终校订。
+- 想查看历史课堂记录：使用独立的“课程笔记”分区。
 
 ## 内容约定
 

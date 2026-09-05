@@ -26,6 +26,21 @@
 - [Para-rehosting](<From Library Portability to Para-rehosting: Natively Executing Microcontroller Software on Commodity Hardware.md>)
 - [Tardis](<Tardis: Coverage-Guided Embedded Operating System Fuzzing.md>)
 - [SHiFT](<SHiFT: Semi-hosted Fuzz Testing for Embedded Applications.md>)
+- [SFuzz](SFuzz-Slice-based-Fuzzing-for-RTOS.md)
+
+## 虚拟化、TEE 与机密计算
+
+- [CloudVisor 演示稿](../presentations/cloudvisor/cloudvisor.md)
+- [HypSec](<HypSec: Protecting Cloud Virtual Machines.md>)
+- [HyperEnclave](<HyperEnclave: An Open and Cross-platform TEE.md>)
+- [LIGHT-ENCLAVE](<A Hardware-Software Co-design for Efficient Intra-Enclave Isolation.md>)
+- [Jailhouse](Look-Mum-No-VM-Exits-Almost.md)
+- [Towards (Really) Safe and Fast Confidential I/O](Towards-Really-Safe-and-Fast-Confidential-IO.md)
+
+## 侧信道、隐私与其他安全议题
+
+- [通过电磁侧信道检测 Rowhammer](Leveraging-EM-Side-Channels-to-Detect-Rowhammer.md)
+- [远程考试监考系统的安全、隐私与公平性](Watching-the-Watchers-Remote-Exam-Proctoring.md)
 
 ## PLC 与工业控制安全
 
@@ -45,3 +60,5 @@
 - [PLC Program Translation for Verification](<PLC Program Translation for Verification Purposes.md>)
 
 其余专项论文和资料位于本目录，可通过仓库文件搜索按标题或关键词检索。
+
+尚未完成阅读的候选论文统一放在[阅读清单](reading-queue.md)，避免与已整理的论文笔记混在一起。

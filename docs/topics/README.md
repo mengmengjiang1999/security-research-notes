@@ -14,10 +14,14 @@
 ## 仿真与系统
 
 - [TSFFS 与 Simics](tsffs-simics.md)
+- [虚拟化、Hypervisor 与 TEE](virtualization/README.md)
 
-## 程序分析与安全测试
+## 工业安全
 
-- [软件分析课程笔记](南大软件分析/course2.md)
+- [工业互联网漏洞库与攻击链专利调研](industrial-security/patent-landscape.md)
+
+## 安全测试
+
 - [渗透测试常用方法](渗透测试常用方法.md)
 
 > 安全测试命令仅适用于已获得明确授权的目标。
