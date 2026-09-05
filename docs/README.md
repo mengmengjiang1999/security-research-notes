@@ -6,7 +6,7 @@
 
 1. [主题笔记](topics/README.md)：按技术主题沉淀的方法、工具与排错经验。
 2. [文献阅读](literature/README.md)：按研究方向组织的论文笔记。
-3. [实践材料](practice/README.md)：课程、CTF 与可复现实验材料。
+3. [实践材料](practice/README.md)：课程笔记、CTF 与可复现实验材料。
 4. [演示资料](presentations/README.md)：论文分享的 Markdown、图片和 PDF。
 5. [研究日志](journal/README.md)：保留时间线，便于追溯想法和实验过程。
 

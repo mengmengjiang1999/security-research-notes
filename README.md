@@ -8,7 +8,7 @@
 | --- | --- | --- |
 | 主题笔记 | AFL/LibAFL、Syzkaller、Simics、软件分析与渗透测试 | [浏览主题笔记](docs/topics/README.md) |
 | 文献阅读 | Fuzzing、固件重托管、PLC/ICS、安全分析与形式化验证 | [浏览论文索引](docs/literature/README.md) |
-| 实践材料 | CTF Web 题解、密码学讲义与 RSA 实验 | [浏览实践材料](docs/practice/README.md) |
+| 实践材料 | 课程笔记、CTF Web 题解、密码学讲义与 RSA 实验 | [浏览实践材料](docs/practice/README.md) |
 | 演示资料 | Fuzzware、Para-rehosting、Tardis 等论文分享 | [浏览演示资料](docs/presentations/README.md) |
 | 研究日志 | 2024—2025 年按学期归档的原始研究过程 | [浏览研究日志](docs/journal/README.md) |
 
