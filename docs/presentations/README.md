@@ -13,4 +13,8 @@
 - [Para-rehosting 分享](para-rehosting/para-rehosting.md)：Markdown 源稿、PDF 与配图。
 - [Tardis 分享](tardis/Tardis-20240327.md)：Markdown 源稿、PDF 与配图。
 
+## 研究项目演示
+
+- [基于覆盖率反馈的 PLC 安全性分析开题答辩](../projects/plc-security-fuzzing/proposal-slides.md)
+
 Markdown 是优先维护的源文件。PDF 仅在旧仓库中存在完整、适合公开的导出版时保留。
